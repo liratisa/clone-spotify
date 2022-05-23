@@ -1,3 +1,3 @@
 # clone-spotify
 
-Clone do site Spotify. Em breve, o projeto será atualizado com responsividade.
+Clone do site Spotify feito com HTML e CSS
